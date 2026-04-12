@@ -1,7 +1,7 @@
 # ESP32 Home automation
 ## Description 
--This is a ESP32 S3 Based Home Automation devices which has 6 Relay switches that can be controlled over the web 
--It also has a BME280 Sensor for monitoring temprature,humidity and pressure in the realtime and can be monitored using a mobile app or a Webpage.
+- This is a ESP32 S3 Based Home Automation devices which has 6 Relay switches that can be controlled over the web 
+- It also has a BME280 Sensor for monitoring temprature,humidity and pressure in the realtime and can be monitored using a mobile app or a Webpage.
 - Also had a FTDI header for easy programming
 - Along with web control there is provison to add any physical switches and the case has space to add touch switches too
 ## Parts Used
